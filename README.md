@@ -1,5 +1,5 @@
-# Node.js & Gulp
-### DT173G Moment 2
+# Sass
+### DT173G Moment 3
 ---
 Detta är tredje uppgiften i kursen [Webbutveckling III](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=18690) på mittuniversitet HT -20.
 
